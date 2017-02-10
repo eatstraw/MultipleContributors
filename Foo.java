@@ -60,15 +60,15 @@ public class Foo {
 
 
 		//STUDENT 13: Print 1 space, 1 comma, 1 uppercase P, 54 spaces, 1 comma, 9 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println(" ,P                                                      ,888888888b"); //TODO
 
 
 		//STUDENT 14: Print 1 space, 1 lowercase d, 1 single quote, 54 spaces, 1 lowercase d, 10 number eights, 1 left square bracket
-		System.out.println(""); //TODO
+		System.out.println(" d'                                                      d8888888888["); //TODO
 
 
 		//STUDENT 15: Print 1 comma, 1 lowercase b, 54 spaces, 1 lowercase d, 11 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println(",b                                                      d88888888888b"); //TODO
 
 
 		//STUDENT 16: Print 1 lowercase d, 1 left square bracket, 53 spaces, 1 lowercase d, 13 number 8s, 1 left square bracket
