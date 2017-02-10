@@ -123,16 +123,16 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 28: Print 5 spaces, 1 uppercase Y, 12 number eights, 4 lowercase o, 42 number eights, 1 uppercase P
-		System.out.println(""); //TODO
+		//STUDENT(GTRUSLOW) 28: Print 5 spaces, 1 uppercase Y, 12 number eights, 4 lowercase o, 42 number eights, 1 uppercase P
+		System.out.println("     Y888888888888oooo888888888888888888888888888888888888888888P"); //TODO
 
 
-		//STUDENT 29: Print 6 spaces, 1 uppercase Y, 56 number eights, 1 uppercase P
-		System.out.println(""); //TODO
+		//STUDENT(GTRUSLOW) 29: Print 6 spaces, 1 uppercase Y, 56 number eights, 1 uppercase P
+		System.out.println("      Y88888888888888888888888888888888888888888888888888888888P"); //TODO
 
 
-		//STUDENT 30: Print 7 spaces, 1 backtick, 1 uppercase Y, 52 number eights, 1 uppercase P, 1 single quote
-		System.out.println(""); //TODO
+		//STUDENT(GTRUSLOW) 30: Print 7 spaces, 1 backtick, 1 uppercase Y, 52 number eights, 1 uppercase P, 1 single quote
+		System.out.println("       `Y8888888888888888888888888888888888888888888888888888P'"); //TODO
 
 
 		//STUDENT 31: Print 9 spaces, 1 single quote, 1 uppercase Y, 48 number eights, 1 uppercase P, 1 single quote
