@@ -47,16 +47,16 @@ public class Foo {
 
 		//STUDENT 10: Print 4 spaces, 1 right square bracket, 32 spaces, 1 right square bracket, 9 number eights, 1 left square bracket, 10 spaces,
 		// 1 uppercase Y, 5 number eights, 1 lowercase b, 1 period
-		System.out.println(""); //TODO
+		System.out.println("    ]                                ]888888888[          "); //TODO
 
 
 		//STUDENT 11: Print 3 spaces, 1 comma, 1 uppercase P, 33 spaces, 9 number eights, 1 single quote, 10 spaces, 1 lowercase d, 7 number eights, 1 period  
-		System.out.println(""); //TODO
+		System.out.println("   ,P                                 888888888'          d8888888."); //TODO
 
 
 		//STUDENT 12: Print 2 spaces, 1 comma, 1 uppercase P, 35 spaces,, 2 uppercase Y, 3 number eights, 2 uppercase P, 12 spaces, 8 number eights, 
 		// 1 lowercase b, 1 period
-		System.out.println(""); //TODO
+		System.out.println("  ,P                                   YY888PP            88888888"); //TODO
 
 
 		//STUDENT 13: Print 1 space, 1 comma, 1 uppercase P, 54 spaces, 1 comma, 9 number eights, 1 lowercase b
