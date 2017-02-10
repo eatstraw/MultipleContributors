@@ -87,15 +87,15 @@ public class Foo {
 
 		//STUDENT 19: Print 1 lowercase b, 7 spaces, 1 lowercase o, 21 number eights, 1 lowercase b, 1 lowercase o, 1 period, 2 underscores, 12 spaces, 
 		// 1 comma, 1 lowercase o, 1 lowercase d, 19 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println("b       o888888888888888888888bo.__            "); // Thuvan 
 
 
 		//STUDENT 20: Print 1 lowercase b, 5 spaces, 1 lowercase d, 29 number eights, 9 lowercase o, 24 number eights, 1 lowercase b     
-		System.out.println(""); //TODO
+		System.out.println("b     d88888888888888888888888888888ooooooooo888888888888888888888888b"); // Thuvan
 
 
 		//STUDENT 21: Print 1 number eight, 1 left square bracket, 2 spaces, 1 comma, 64 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println("8[  ,8888888888888888888888888888888888888888888888888888888888888888b"); // Thuvan
 
 
 		//STUDENT 22: Print 1 right square bracket, 1 left square bracket, 1 space, 1 lowercase d, 65 number eights, 1 left square bracket  
