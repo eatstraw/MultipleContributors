@@ -60,15 +60,15 @@ public class Foo {
 
 
 		//STUDENT 13: Print 1 space, 1 comma, 1 uppercase P, 54 spaces, 1 comma, 9 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println(" ,P                                                      ,888888888b"); //TODO
 
 
 		//STUDENT 14: Print 1 space, 1 lowercase d, 1 single quote, 54 spaces, 1 lowercase d, 10 number eights, 1 left square bracket
-		System.out.println(""); //TODO
+		System.out.println(" d'                                                      d8888888888["); //TODO
 
 
 		//STUDENT 15: Print 1 comma, 1 lowercase b, 54 spaces, 1 lowercase d, 11 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println(",b                                                      d88888888888b"); //TODO
 
 
 		//STUDENT 16: Print 1 lowercase d, 1 left square bracket, 53 spaces, 1 lowercase d, 13 number 8s, 1 left square bracket
@@ -87,28 +87,28 @@ public class Foo {
 
 		//STUDENT 19: Print 1 lowercase b, 7 spaces, 1 lowercase o, 21 number eights, 1 lowercase b, 1 lowercase o, 1 period, 2 underscores, 12 spaces, 
 		// 1 comma, 1 lowercase o, 1 lowercase d, 19 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println("b       o888888888888888888888bo.__            "); // Thuvan 
 
 
 		//STUDENT 20: Print 1 lowercase b, 5 spaces, 1 lowercase d, 29 number eights, 9 lowercase o, 24 number eights, 1 lowercase b     
-		System.out.println(""); //TODO
+		System.out.println("b     d88888888888888888888888888888ooooooooo888888888888888888888888b"); // Thuvan
 
 
 		//STUDENT 21: Print 1 number eight, 1 left square bracket, 2 spaces, 1 comma, 64 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println("8[  ,8888888888888888888888888888888888888888888888888888888888888888b"); // Thuvan
 
 
 		//STUDENT 22: Print 1 right square bracket, 1 left square bracket, 1 space, 1 lowercase d, 65 number eights, 1 left square bracket  
-		System.out.println(""); //TODO
+		System.out.println("][ d 88888888888888888888888888888888888888888888888888888888888888888["); //TODO
 
 
 		//STUDENT 23: Print 1 space, 1 lowercase b, 1 lowercase d, 65 number eights, 1 uppercase P
-		System.out.println(""); //TODO
+		System.out.println(" bd88888888888888888888888888888888888888888888888888888888888888888P"); //TODO
 
 
 		//STUDENT 24: Print 1 space, 1 right square bracket, 14 number eights, 1 uppercase P, 2 single quotes, 2 spaces, 2 backticks, 45 number eights,
 		// 1 left square bracket
-		System.out.println(""); //TODO
+		System.out.println(" ]88888888888888P''  ``888888888888888888888888888888888888888888888["); //TODO
 
 
 		//STUDENT 25: Print 2 spaces, 1 uppercase Y, 12 number eights, 1 uppercase P, 8 spaces, 43 number eights, 1 uppercase P    
@@ -123,16 +123,16 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 28: Print 5 spaces, 1 uppercase Y, 12 number eights, 4 lowercase o, 42 number eights, 1 uppercase P
-		System.out.println(""); //TODO
+		//STUDENT(GTRUSLOW) 28: Print 5 spaces, 1 uppercase Y, 12 number eights, 4 lowercase o, 42 number eights, 1 uppercase P
+		System.out.println("     Y888888888888oooo888888888888888888888888888888888888888888P"); //TODO
 
 
-		//STUDENT 29: Print 6 spaces, 1 uppercase Y, 56 number eights, 1 uppercase P
-		System.out.println(""); //TODO
+		//STUDENT(GTRUSLOW) 29: Print 6 spaces, 1 uppercase Y, 56 number eights, 1 uppercase P
+		System.out.println("      Y88888888888888888888888888888888888888888888888888888888P"); //TODO
 
 
-		//STUDENT 30: Print 7 spaces, 1 backtick, 1 uppercase Y, 52 number eights, 1 uppercase P, 1 single quote
-		System.out.println(""); //TODO
+		//STUDENT(GTRUSLOW) 30: Print 7 spaces, 1 backtick, 1 uppercase Y, 52 number eights, 1 uppercase P, 1 single quote
+		System.out.println("       `Y8888888888888888888888888888888888888888888888888888P'"); //TODO
 
 
 				//STUDENT 31: Print 9 spaces, 1 single quote, 1 uppercase Y, 48 number eights, 1 uppercase P, 1 single quote
