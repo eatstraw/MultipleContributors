@@ -112,15 +112,15 @@ public class Foo {
 
 
 		//STUDENT 25: Print 2 spaces, 1 uppercase Y, 12 number eights, 1 uppercase P, 8 spaces, 43 number eights, 1 uppercase P    
-		System.out.println(""); //TODO
+		System.out.println("  Y888888888888P        8888888888888888888888888888888888888888888P"); //TODO
 
 
 		//STUDENT 26: Print 3 spaces, 12 number eights, 1 lowercase b, 8 spaces, 1 lowercase d, 41 number eights, 1 uppercase P    
-		System.out.println(""); //TODO
+		System.out.println("   888888888888b        d88888888888888888888888888888888888888888P"); //TODO
 
 
 		//STUDENT 27: Print 3 spaces, 1 backtick, 12 number eights, 1 uppercase L, 6 spaces, 1 lowercase d, 41 number eights, 1 uppercase P       
-		System.out.println(""); //TODO
+		System.out.println("   `888888888888L      d8888888888888888888888888888888888888888P"); //TODO
 
 
 		//STUDENT 28: Print 5 spaces, 1 uppercase Y, 12 number eights, 4 lowercase o, 42 number eights, 1 uppercase P
