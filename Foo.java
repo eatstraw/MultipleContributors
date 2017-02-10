@@ -99,16 +99,16 @@ public class Foo {
 
 
 		//STUDENT 22: Print 1 right square bracket, 1 left square bracket, 1 space, 1 lowercase d, 65 number eights, 1 left square bracket  
-		System.out.println(""); //TODO
+		System.out.println("][ d 88888888888888888888888888888888888888888888888888888888888888888["); //TODO
 
 
 		//STUDENT 23: Print 1 space, 1 lowercase b, 1 lowercase d, 65 number eights, 1 uppercase P
-		System.out.println(""); //TODO
+		System.out.println(" bd88888888888888888888888888888888888888888888888888888888888888888P"); //TODO
 
 
 		//STUDENT 24: Print 1 space, 1 right square bracket, 14 number eights, 1 uppercase P, 2 single quotes, 2 spaces, 2 backticks, 45 number eights,
 		// 1 left square bracket
-		System.out.println(""); //TODO
+		System.out.println(" ]88888888888888P''  ``888888888888888888888888888888888888888888888["); //TODO
 
 
 		//STUDENT 25: Print 2 spaces, 1 uppercase Y, 12 number eights, 1 uppercase P, 8 spaces, 43 number eights, 1 uppercase P    
