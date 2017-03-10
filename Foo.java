@@ -6,11 +6,11 @@ public class Foo {
 		//Modify the characters printed as specified
 
 
-		//STUDENT 1: Print 31 spaces, 5 underscores, 2 spaces, 2 underscores  
+		//STUDENT 1: Print 31 spaces, 5 underscores, 2 spaces, 2 underscores
 		System.out.println(""); //TODO
 
 
-		//STUDENT 2: Print 22 spaces, 1 underscore, 1 comma, 1 less than, 1 lowercase o, 1 backtick (below ~), 1 space, 1 backtick, 
+		//STUDENT 2: Print 22 spaces, 1 underscore, 1 comma, 1 less than, 1 lowercase o, 1 backtick (below ~), 1 space, 1 backtick,
 		// 1 single quote, 8 spaces, 3 single quotes, 1 backtick, 1 single quote, 1 capital Y, 1 equals sign, 1 lowercase o, 1 period
 		System.out.println(""); //TODO
 
@@ -23,7 +23,7 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 5: Print 12 spaces, 1 underscore, 1 period, 40 spaces, 1 single quote, 1 uppercase Y, 1 period 
+		//STUDENT 5: Print 12 spaces, 1 underscore, 1 period, 40 spaces, 1 single quote, 1 uppercase Y, 1 period
 		System.out.println(""); //TODO
 
 
@@ -40,7 +40,7 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 9: Print 6 spaces, 1 single quote, 31 spaces, 1 lowercase d, 7 number eights, 1 lowercase b, 11 spaces, 5 number eights, 1 lowercase b   
+		//STUDENT 9: Print 6 spaces, 1 single quote, 31 spaces, 1 lowercase d, 7 number eights, 1 lowercase b, 11 spaces, 5 number eights, 1 lowercase b
 		System.out.println(""); //TODO
 
 
@@ -49,11 +49,11 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 11: Print 3 spaces, 1 comma, 1 uppercase P, 33 spaces, 9 number eights, 1 single quote, 10 spaces, 1 lowercase d, 7 number eights, 1 period  
+		//STUDENT 11: Print 3 spaces, 1 comma, 1 uppercase P, 33 spaces, 9 number eights, 1 single quote, 10 spaces, 1 lowercase d, 7 number eights, 1 period
 		System.out.println(""); //TODO
 
 
-		//STUDENT 12: Print 2 spaces, 1 comma, 1 uppercase P, 35 spaces,, 2 uppercase Y, 3 number eights, 2 uppercase P, 12 spaces, 8 number eights, 
+		//STUDENT 12: Print 2 spaces, 1 comma, 1 uppercase P, 35 spaces,, 2 uppercase Y, 3 number eights, 2 uppercase P, 12 spaces, 8 number eights,
 		// 1 lowercase b, 1 period
 		System.out.println(""); //TODO
 
@@ -79,17 +79,17 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 18: Print 1 lowercase b, 9 spaces, 1 underscore, two lowercase o, 13 number eights, 2 lowercase o, 1 underscore, 21 spaces, 1 underscore, 
+		//STUDENT 18: Print 1 lowercase b, 9 spaces, 1 underscore, two lowercase o, 13 number eights, 2 lowercase o, 1 underscore, 21 spaces, 1 underscore,
 		// 1 lowercase o, 17 number eights, 1 lowercase b
 		System.out.println("b         oo8888888888888oo_                     _o88888888888888888b"); //TODO
 
 
-		//STUDENT 19: Print 1 lowercase b, 7 spaces, 1 lowercase o, 21 number eights, 1 lowercase b, 1 lowercase o, 1 period, 2 underscores, 12 spaces, 
+		//STUDENT 19: Print 1 lowercase b, 7 spaces, 1 lowercase o, 21 number eights, 1 lowercase b, 1 lowercase o, 1 period, 2 underscores, 12 spaces,
 		// 1 comma, 1 lowercase o, 1 lowercase d, 19 number eights, 1 lowercase b
 		System.out.println(""); //TODO
 
 
-		//STUDENT 20: Print 1 lowercase b, 5 spaces, 1 lowercase d, 29 number eights, 9 lowercase o, 24 number eights, 1 lowercase b     
+		//STUDENT 20: Print 1 lowercase b, 5 spaces, 1 lowercase d, 29 number eights, 9 lowercase o, 24 number eights, 1 lowercase b
 		System.out.println(""); //TODO
 
 
@@ -97,7 +97,7 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 22: Print 1 right square bracket, 1 left square bracket, 1 space, 1 lowercase d, 65 number eights, 1 left square bracket  
+		//STUDENT 22: Print 1 right square bracket, 1 left square bracket, 1 space, 1 lowercase d, 65 number eights, 1 left square bracket
 		System.out.println(""); //TODO
 
 
@@ -110,15 +110,15 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 25: Print 2 spaces, 1 uppercase Y, 12 number eights, 1 uppercase P, 8 spaces, 43 number eights, 1 uppercase P    
+		//STUDENT 25: Print 2 spaces, 1 uppercase Y, 12 number eights, 1 uppercase P, 8 spaces, 43 number eights, 1 uppercase P
 		System.out.println(""); //TODO
 
 
-		//STUDENT 26: Print 3 spaces, 12 number eights, 1 lowercase b, 8 spaces, 1 lowercase d, 41 number eights, 1 uppercase P    
+		//STUDENT 26: Print 3 spaces, 12 number eights, 1 lowercase b, 8 spaces, 1 lowercase d, 41 number eights, 1 uppercase P
 		System.out.println(""); //TODO
 
 
-		//STUDENT 27: Print 3 spaces, 1 backtick, 12 number eights, 1 uppercase L, 6 spaces, 1 lowercase d, 41 number eights, 1 uppercase P       
+		//STUDENT 27: Print 3 spaces, 1 backtick, 12 number eights, 1 uppercase L, 6 spaces, 1 lowercase d, 41 number eights, 1 uppercase P
 		System.out.println(""); //TODO
 
 
@@ -154,7 +154,7 @@ public class Foo {
 		System.out.println(""); //TODO
 
 
-		//STUDENT 36: Print 23 spaces, 1 backtick, 1 single quote, 1 backtick, 1 uppercase Y, 1 uppercase P, 1 uppercase Y, 12 number eights, 
+		//STUDENT 36: Print 23 spaces, 1 backtick, 1 single quote, 1 backtick, 1 uppercase Y, 1 uppercase P, 1 uppercase Y, 12 number eights,
 		// 2 uppercase P, 1 single quote, 1 backtick, 2 single quotes
 		System.out.println(""); //TODO
 
@@ -167,5 +167,3 @@ public class Foo {
 	}
 
 }
-
-
