@@ -12,7 +12,7 @@ public class Foo {
 
 		//STUDENT 2: Print 22 spaces, 1 underscore, 1 comma, 1 less than, 1 lowercase o, 1 backtick (below ~), 1 space, 1 backtick, 
 		// 1 single quote, 8 spaces, 3 single quotes, 1 backtick, 1 single quote, 1 capital Y, 1 equals sign, 1 lowercase o, 1 period
-		System.out.println(""); //TODO
+		System.out.println("                      _,<o` `'        '''`'Y=o."); //TODO
 
 
 		//STUDENT 3: Print 18 spaces, 1 underscore, 2 hyphens, 1 single quote, 25 spaces, 2 single quotes, lowercase p, lowercase o
