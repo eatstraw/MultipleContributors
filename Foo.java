@@ -7,7 +7,7 @@ public class Foo {
 
 
 		//STUDENT 1: Print 31 spaces, 5 underscores, 2 spaces, 2 underscores  
-		System.out.println(""); //TODO
+		System.out.println("Print 31 spaces, 5 underscores, 2 spaces, 2 underscores"); //TODO
 
 
 		//STUDENT 2: Print 22 spaces, 1 underscore, 1 comma, 1 less than, 1 lowercase o, 1 backtick (below ~), 1 space, 1 backtick, 
