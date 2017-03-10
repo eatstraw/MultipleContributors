@@ -63,7 +63,7 @@ public class Foo {
 
 
 		//STUDENT 14: Print 1 space, 1 lowercase d, 1 single quote, 54 spaces, 1 lowercase d, 10 number eights, 1 left square bracket
-		System.out.println(""); //TODO
+		System.out.println(" ,P                                                      ,888888888b"); //TODO
 
 
 		//STUDENT 15: Print 1 comma, 1 lowercase b, 54 spaces, 1 lowercase d, 11 number eights, 1 lowercase b
