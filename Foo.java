@@ -28,7 +28,7 @@ public class Foo {
 
 
 		//STUDENT 6: Print 56 spaces, 1 uppercase Y, 1 lowercase b, 1 lowercase o
-		System.out.println(""); //TODO
+		System.out.println("                                                        Ybo"); //TODO
 
 
 		//STUDENT 7: Print 9 spaces, 1 lowercase p, 1 single quote, 46 spaces, 1 uppercase Y, 2 number eights, 1 uppercase L
