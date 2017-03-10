@@ -55,7 +55,7 @@ public class Foo {
 
 		//STUDENT 12: Print 2 spaces, 1 comma, 1 uppercase P, 35 spaces,, 2 uppercase Y, 3 number eights, 2 uppercase P, 12 spaces, 8 number eights, 
 		// 1 lowercase b, 1 period
-		System.out.println(""); //TODO
+		System.out.println("  ,P                                   YY888PP            88888888b."); 
 
 
 		//STUDENT 13: Print 1 space, 1 comma, 1 uppercase P, 54 spaces, 1 comma, 9 number eights, 1 lowercase b
