@@ -32,7 +32,7 @@ public class Foo {
 
 
 		//STUDENT 7: Print 9 spaces, 1 lowercase p, 1 single quote, 46 spaces, 1 uppercase Y, 2 number eights, 1 uppercase L
-		System.out.println(""); //TODO
+		System.out.println("         p'                                              Y88L"); //TODO
 
 
 		//STUDENT 8: Print 7 spaces, 1 lowercase d, 1 single quote, 30 spaces, 1 comma, 1 lowercase o, 1 lowercase d, 1 number eight, 1 lowercase b,
