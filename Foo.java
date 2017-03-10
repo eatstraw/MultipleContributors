@@ -67,7 +67,7 @@ public class Foo {
 
 
 		//STUDENT 15: Print 1 comma, 1 lowercase b, 54 spaces, 1 lowercase d, 11 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println(",b                                                      d88888888888b"); //TODO
 
 
 		//STUDENT 16: Print 1 lowercase d, 1 left square bracket, 53 spaces, 1 lowercase d, 13 number 8s, 1 left square bracket
