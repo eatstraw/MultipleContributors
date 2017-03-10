@@ -20,8 +20,8 @@ public class Foo {
 
 
 		//STUDENT 4: Print  15 spaces, 1 period, 1 space, 1 single quote, 33 spaces, 1 single quote, 1 uppercase Y, 1 lowercase o
-		System.out.println(""); //TODO
-
+		System.out.println("               . '                                 'Yo"); //TODO
+		//                ("123456789-12345.1'123456789-123456789-123456789-123'Yo")  // space alignment
 
 		//STUDENT 5: Print 12 spaces, 1 underscore, 1 period, 40 spaces, 1 single quote, 1 uppercase Y, 1 period 
 		System.out.println(""); //TODO
