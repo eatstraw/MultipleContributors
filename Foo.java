@@ -95,11 +95,11 @@ public class Foo {
 
 
 		//STUDENT 21: Print 1 number eight, 1 left square bracket, 2 spaces, 1 comma, 64 number eights, 1 lowercase b
-		System.out.println(""); //TODO
+		System.out.println("8[  ,8888888888888888888888888888888888888888888888888888888888888888b"); //TODO
 
 
 		//STUDENT 22: Print 1 right square bracket, 1 left square bracket, 1 space, 1 lowercase d, 65 number eights, 1 left square bracket  
-		System.out.println(""); //TODO
+		System.out.println("][ d88888888888888888888888888888888888888888888888888888888888888888["); //TODO
 
 
 		//STUDENT 23: Print 1 space, 1 lowercase b, 1 lowercase d, 65 number eights, 1 uppercase P
