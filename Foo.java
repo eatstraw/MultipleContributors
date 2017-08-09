@@ -17,11 +17,11 @@ public class Foo {
 
 
 		//STUDENT 3: Print 18 spaces, 1 underscore, 2 hyphens, 1 single quote, 25 spaces, 2 single quotes, lowercase p, lowercase o
-		System.out.println(""); //TODO
+		System.out.println("                  _--'                         ''po"); //TODO
 
 
 		//STUDENT 4: Print  15 spaces, 1 period, 1 space, 1 single quote, 33 spaces, 1 single quote, 1 uppercase Y, 1 lowercase o
-		System.out.println(""); //TODO
+		System.out.println("               '                                 'Yo"); //TODO
 
 
 		//STUDENT 5: Print 12 spaces, 1 underscore, 1 period, 40 spaces, 1 single quote, 1 uppercase Y, 1 period 
